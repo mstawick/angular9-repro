@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en">
+  <file original="ng.template" id="ngi18n">
+    <unit id="3902961887793684628">
+      <notes>
+        <note category="location">src/app/app.component.html:1</note>
+      </notes>
+      <segment>
+        <source>Hello</source>
+        <target>Hello en_US</target>
+      </segment>
+    </unit>
+    <unit id="2137715600959110023">
+      <notes>
+        <note category="location">src/app/app.component.html:5</note>
+        <note category="location">src/app/test.component.html:3</note>
+      </notes>
+      <segment>
+        <source>Bummer!</source>
+        <target>Bummer! en_US</target>
+      </segment>
+    </unit>
+    <unit id="4880911345587097479">
+      <notes>
+        <note category="location">src/app/test.component.html:1</note>
+      </notes>
+      <segment>
+        <source>Test component</source>
+        <target>Test component en_US</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
