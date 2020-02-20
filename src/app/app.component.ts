@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'sourcemap-bug';
 
   crashMe(): void {
-    // throw new Error('Bummer');
-    throw new Error($localize`Bummer crash?`);
+    throw new Error('Bummer');
+    // throw new Error($localize`Bummer crash?`);
   }
 }
